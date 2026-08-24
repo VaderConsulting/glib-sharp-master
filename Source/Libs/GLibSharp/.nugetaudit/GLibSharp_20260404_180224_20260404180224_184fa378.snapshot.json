@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260404180224_184fa378",
+  "CapturedUtc": "2026-04-04T18:02:24.5053447+00:00",
+  "NormalisedContentHash": "5EDD33A023C9B844E792C5032440AAA96AA487A4B8F3BDA1DEBC60C70CA277C3",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "GLibSharp",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\glib-sharp-master\\Source\\Libs\\GLibSharp\\GLibSharp.csproj",
+    "SolutionKey": "86CE76077726613F",
+    "SourceIdentity": {
+      "IdentityKey": "86CE76077726613F",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\glib-sharp-master\\Source\\Libs\\GLibSharp\\GLibSharp.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\glib-sharp-master\\Source\\Libs\\GLibSharp",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "1BC8FDB942B5CC85",
+      "ProjectName": "GLibSharp",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\glib-sharp-master\\Source\\Libs\\GLibSharp\\GLibSharp.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "netstandard2.0",
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}
