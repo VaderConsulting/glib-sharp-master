@@ -22,6 +22,10 @@ GLibSharp is a C# wrapper for the GLib library, kept as a Dave Robinson working 
 
 Open `Source/Libs/GLibSharp/GLibSharp.csproj` in Visual Studio or `dotnet build` that project. The csproj also compiles files from the missing `Source/Tools/gapi` submodule.
 
+## Requirements
+
+- netstandard2.0
+
 ## Attribution and provenance
 
 - Third-party GtkSharp / glib-sharp working copy (see `THIRD_PARTY_NOTICES.md`).
