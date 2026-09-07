@@ -1,16 +1,8 @@
 # glib-sharp-master
 
-**Source last updated:** 2026-04-03
+GLibSharp is a C# wrapper for the GLib library (.NET Standard 2.0 project under `Source/Libs/GLibSharp`). Original authors include Mike Kestner, Novell, and later GtkSharp contributors. The gapi submodule is recorded in `.gitmodules` but was not present in this tree.
 
-GLibSharp is a C# wrapper for the GLib library, kept as a Dave Robinson working copy of third-party GtkSharp / glib-sharp sources. The tree is a .NET Standard 2.0 project under Source/Libs/GLibSharp; the gapi submodule is recorded in .gitmodules but was not present in this zip. Original authors include Mike Kestner, Novell, and later GtkSharp contributors.
-
-**Language:** C#  
-**Target:** .NET Standard 2.0  
-**Output:** Class library (GLibSharp)
-
-## What it is
-
-GLibSharp is a C# wrapper for the GLib library, kept as a Dave Robinson working copy of third-party GtkSharp / glib-sharp sources. The tree is a .NET Standard 2.0 project under Source/Libs/GLibSharp; the gapi submodule is recorded in .gitmodules but was not present in this zip. Original authors include Mike Kestner, Novell, and later GtkSharp contributors.
+**Source last updated:** 2026-04-03 · **Language:** C# · **Target:** .NET Standard 2.0 · **Output:** class library (GLibSharp)
 
 ## Solution structure
 
