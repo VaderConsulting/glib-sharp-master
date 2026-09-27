@@ -20,6 +20,7 @@ Open `Source/Libs/GLibSharp/GLibSharp.csproj` in Visual Studio or `dotnet build`
 
 ## Attribution and provenance
 
+my working copy from Development folder `glib-sharp-master`.
 - Third-party GtkSharp / glib-sharp working copy (see `THIRD_PARTY_NOTICES.md`).
 - Source headers name Mike Kestner, Novell, Inc., and Andres G. Aragoneses among others.
 - Package metadata points at https://github.com/GtkSharp/GtkSharp
